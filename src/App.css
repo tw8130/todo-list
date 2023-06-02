@@ -1,0 +1,71 @@
+.app {
+    margin: 10px;
+    justify-content: center;
+    padding-left: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.add-task-form {
+    margin-bottom: 10px;
+}
+
+.add-task-form input {
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 30px;
+}
+
+.task-list {
+    list-style: none;
+    padding: 0;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: solid 1px black;
+    padding: 15px;
+}
+
+.task-item span {
+    margin-right: 10px;
+    padding: 20px 30px;
+}
+
+.task-buttons button {
+    margin-left: 5px;
+    background-color: blue;
+    margin-top: 12px;
+}
+
+.task-item form input {
+    margin-right: 5px;
+}
+
+.task-item form .task-buttons {
+    margin-left: 10px;
+}
+
+.btn {
+    background-color: aqua;
+}
+
+.task-buttons .btn2 {
+    background-color: red;
+    margin-left: 60px;
+}
+
+.task-buttons2 .btn1 {
+    background-color: dodgerblue;
+    margin-top: 12px;
+}
+
+.task-buttons2 .btn3 {
+    background-color: crimson;
+    margin-left: 60px;
+}
